@@ -1,5 +1,3 @@
-# Employee_Portal_Backend
-
 # EmployeePortal
 This app is basic crud spring boot app for Creating an employee and getting list of created Employees.
 
