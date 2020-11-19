@@ -7,7 +7,7 @@ This project was generated with Spring Initializer https://start.spring.io/.
 Java 1.8 & Maven
 
 # App Urls:
-http://localhost:8080/human-resource/employee-management/emp/api/v1/employees
+http://localhost:8080/human-resource/employee-management/emp/api/v1/employees <br />
 http://localhost:8080/human-resource/employee-management/emp/api/v1/register
 
 # Build
